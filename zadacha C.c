@@ -12,7 +12,7 @@ int main(){
 	scanf("%f", &h);
 
 	if(a <= 0 || b <= 0 || h <= 0){
-		printf("Invalid figure!\n");
+		printf("Impossible figure!\n");
 		return 1;
 	}
 
